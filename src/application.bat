@@ -1,4 +1,5 @@
 ### application.bat - 2018 - DANGUY ###
-Version 1
+version="2"
+build_hour = "11h00"
 
-Build : 10:00
+Copyright company - 2018
