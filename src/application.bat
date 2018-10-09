@@ -1,5 +1,6 @@
 ### application.bat - 2018 - DANGUY ###
-version="1.1"
+version="2"
 build_hour = "11h00"
 
-Copyright company - 2018
+echo "Build ${build_hour}"
+echo "version ${version}"
